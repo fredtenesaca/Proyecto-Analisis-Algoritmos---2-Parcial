@@ -1,4 +1,200 @@
-SP123456 casa perro sol luna gato
-EN654321 apple house sun dog cat
-PT000001 casa cachorro sol lua gato
-DT111111 huis hond zon maan kat
+EN000001 ship yellow internet six file van tram five gray pig silver kiwi taxi peach
+EN000002 phone tablet two nine melon brown pear grape eight gray bike fish six internet
+EN000003 tram bike plum van white gray eight duck drive fish bird bus boat metro
+EN000004 van ship bus computer green melon banana wifi tram six tablet dog blue two
+EN000005 grape eight mouse taxi plum four yellow keyboard sheep melon van jet goat orange
+EN000006 ten file red boat eight taxi dog code mouse bronze seven goat wifi two
+EN000007 purple keyboard seven code brown goat snake red cherry rocket van white two truck
+EN000008 goat apple file banana bronze fish green purple laptop kiwi four horse phone train
+EN000009 nine snake jet two horse fish orange folder data three car ten green red
+EN000010 brown pink orange wifi taxi seven truck gold folder mango tablet four rabbit grape
+EN000011 bronze silver data six melon keyboard pink brown orange truck taxi bus tablet lime
+EN000012 eight ship fish gray tram file screen bike three keyboard plum six gold mouse
+EN000013 red horse blue mouse van melon internet keyboard data pink three lime jet yellow
+EN000014 metro pear taxi gold bus red silver lemon grape seven orange banana three folder
+EN000015 keyboard internet horse ten two three kiwi chicken cat rocket plum boat mango silver
+EN000016 nine three bronze two four plum red computer plane snake berry ship horse pink
+EN000017 pig brown two computer five one file cow train chicken apple mango snake cat
+EN000018 cow bronze bike train van code tram screen lemon taxi mouse apple data cat
+EN000019 data car tram bronze dog orange five snake silver cherry fish one wifi blue
+EN000020 pink mango mouse black lemon banana plum lime cherry tablet fish internet five code
+EN000021 kiwi car black gold cherry mango ten red mouse van phone drive plane plum
+EN000022 melon file green mango duck bus folder orange train internet cat ship tablet data
+EN000023 kiwi taxi three grape lime van orange plane mouse snake phone train tram bird
+EN000024 red taxi train kiwi laptop bus chicken pink phone pear five lime blue one
+EN000025 mouse fish bike plum pink wifi data snake taxi white rabbit bronze melon bus
+EN000026 tablet mouse metro seven grape bike melon goat banana drive wifi apple yellow rabbit
+EN000027 rocket red mango folder jet snake purple nine orange banana mouse one chicken van
+EN000028 orange duck car taxi fish six mango goat one tablet bird jet chicken file
+EN000029 bike berry bird plum pink truck yellow orange red tablet rocket car train jet
+EN000030 pig boat three mouse snake laptop pink peach lemon car jet cow silver tablet
+EN000031 red code plane tablet banana car cow duck cherry pink boat file sheep lime
+EN000032 metro cherry keyboard drive purple cat ship plane plum bus laptop orange screen goat
+EN000033 tram cat truck two pear chicken rocket metro snake bronze file berry apple mango
+EN000034 truck cow two cat orange snake file sheep five taxi folder plum plane kiwi
+EN000035 nine rocket bronze pig computer train screen data boat silver five red orange pink
+EN000036 train van brown tablet file white melon silver pig code lemon cherry pink eight
+EN000037 melon two apple orange cow ten horse tablet pig kiwi bird mango data bike
+EN000038 wifi mango train phone black purple tablet five two pear ten pink orange eight
+EN000039 grape drive ship brown lemon two phone gold taxi red rocket bus tablet banana
+EN000040 file blue lime ship red computer internet yellow kiwi banana six eight code one
+EN000041 mouse tablet bus train pig horse cat bird purple rabbit pear folder nine lime
+EN000042 peach two snake keyboard eight boat berry duck bike taxi red phone yellow cat
+EN000043 pig goat jet two tablet horse cat car keyboard nine pear blue seven taxi
+EN000044 plum tablet bronze cat laptop internet orange five black nine taxi sheep goat ten
+EN000045 kiwi metro screen one phone orange melon bronze peach green cow pig dog bus
+EN000046 internet mango truck bronze three drive bird grape four snake pink car mouse tram
+EN000047 mouse bird truck nine gold file peach apple data six duck tram mango train
+EN000048 truck data chicken grape silver gray folder ship orange ten taxi yellow laptop pear
+EN000049 laptop orange wifi one gold car red grape truck mouse plane brown chicken phone
+EN000050 horse nine taxi silver jet lemon mouse plane bird kiwi apple fish one keyboard
+DT000001 naam maand papier lucht zaterdag bruin stoel varken een week
+DT000002 rood hallo drie maand lucht tien vogel woensdag donderdag geit
+DT000003 donderdag dinsdag twee hond vijf nee paard kat zeven mevrouw
+DT000004 eend maand aarde je alsjeblieft vogel vier vrijdag zes naam
+DT000005 vogel ja woensdag naam dank roze hond dag dinsdag blauw
+DT000006 bruin tafel aarde rood vijf mevrouw water papier naam dank
+DT000007 mevrouw rood papier zaterdag donderdag vrijdag lucht alsjeblieft aarde tafel
+DT000008 zondag vis aarde vijf drie mevrouw doei kat woensdag schaap
+DT000009 wit koe blauw zeven papier hond negen maand hallo varken
+DT000010 week dank doei wel water alsjeblieft geel acht vis wit
+DT000011 twee aarde koe papier geel zwart vuur donderdag zondag paard
+DT000012 dinsdag blauw oranje schaap paars varken vuur mevrouw wel maand
+DT000013 stoel wit wel een vuur vier vogel vijf geit twee
+DT000014 dag geel ja hallo paard vrijdag drie maandag maand varken
+DT000015 varken lucht kat maand doei woensdag oranje zaterdag pen vogel
+DT000016 kat varken water pen tafel eend boek maandag hallo vogel
+DT000017 stoel vis vogel maand negen hond meneer zwart papier je
+DT000018 vis varken vuur mevrouw tafel groen maand dag alsjeblieft zaterdag
+DT000019 vis paars tien maand zes vijf rood zondag boek schaap
+DT000020 paard blauw drie dag vogel maand paars koe ja dinsdag
+DT000021 dinsdag schaap dag paars alsjeblieft koe zaterdag dank ja nee
+DT000022 vijf vier tafel koe geel hond alsjeblieft tien nee water
+DT000023 nee lucht groen negen naam papier vogel rood ja hallo
+DT000024 woensdag oranje meneer vuur roze tien kat paars zeven drie
+DT000025 alsjeblieft maandag vrijdag roze negen zes week een wit aarde
+DT000026 naam dank vrijdag schaap zondag alsjeblieft vijf paard week geit
+DT000027 boek groen wel naam acht pen aarde vrijdag varken meneer
+DT000028 een zaterdag roze negen stoel geel week rood blauw tien
+DT000029 varken vogel dinsdag paars tafel maandag hond groen alsjeblieft zwart
+DT000030 kat nee alsjeblieft hallo tafel schaap vrijdag blauw groen dank
+DT000031 paard zwart vijf tien hallo wel schaap maand vuur mevrouw
+DT000032 eend zwart stoel vis drie doei naam paard papier maand
+DT000033 zeven bruin week acht een woensdag eend aarde drie zwart
+DT000034 kat wit maandag pen stoel lucht zwart een vogel koe
+DT000035 paars nee hond paard drie tafel vier stoel roze dinsdag
+DT000036 meneer stoel paard vis nee vuur naam maand groen zwart
+DT000037 wit aarde dinsdag paard kat groen pen dag donderdag drie
+DT000038 varken zondag dag vrijdag negen zaterdag roze oranje vis maandag
+DT000039 boek eend negen oranje paars roze rood twee aarde bruin
+DT000040 zeven paard water aarde vis tien koe maand alsjeblieft hond
+DT000041 water acht vijf paard dag nee maandag vuur boek eend
+DT000042 boek eend woensdag een zeven vrijdag koe acht tafel vuur
+DT000043 papier ja pen acht nee roze drie zaterdag lucht zwart
+DT000044 schaap zondag woensdag zes geit aarde roze dinsdag vuur donderdag
+DT000045 drie dank zes zaterdag zeven dinsdag koe vier blauw paard
+DT000046 dag paard groen paars zes zondag blauw maand geel woensdag
+DT000047 roze acht naam geit zeven zaterdag ja zwart stoel koe
+DT000048 oranje paard drie zaterdag paars bruin wit blauw alsjeblieft donderdag
+DT000049 maand varken donderdag tafel nee dank blauw ja twee zaterdag
+DT000050 lucht vis vrijdag meneer oranje blauw boek schaap zes paard
+PT000001 bom mae tio quanto olho braco adeus bolo talvez pai cabeca dedo janela estrela neta jardim sangue peixe boa arroz
+PT000002 vinho obrigado arroz parede onde cabelo esposa tia como cabeca suco dente quando cozinha quanto talvez filha cerveja porta sala
+PT000003 teto unha braco olho pele boa lingua cidade quem neto cabelo desculpe fruta sogro sobrinho avo peixe porta feijao sol
+PT000004 unha quando batata sol filho pele lingua favor pai primo banheiro feijao porta neta cabeca quarto avo quem quanto teto
+PT000005 boca bolo bom adeus tio pe sogro favor olho desculpe cabelo sorvete suco boa teto tarde batata orelha salada qual
+PT000006 adeus cidade onde perna orelha sogro favor janela obrigado feijao banheiro braco arroz pais unha dedo mae nora genro neta
+PT000007 pe vinho neto mao carne sol filho rua figado sala torta mae cabelo cozinha cabeca estrela unha lua queijo avo
+PT000008 cafe jardim quanto boca boa casa mundo irmao filha pe batata sangue sol teto janela banheiro obrigado frango noite nariz
+PT000009 favor bolo dente peixe cabeca garagem quando perna boa sala cerveja ola marido cabelo terra feijao chao unha pai neta
+PT000010 filho tia osso suco filha estrela lua onde cabeca quando quem bolo mundo sobrinho leite cafe batata amigo feijao teto
+PT000011 esposa unha queijo frango avo cozinha garagem como nora lua adeus sala obrigado teto por dente doce peixe filha irmao
+PT000012 boa filha janela pulmao noite dedo obrigado garagem mundo marido torta irmao onde qual teto tio boca casa adeus sim
+PT000013 neta tia leite onde como favor orelha cidade mao lingua qual sogro quem janela cerveja cabelo vinho batata unha sangue
+PT000014 sogra estrela nora unha rua bolo lua chao arroz perna mao olho adeus frango figado mae talvez garagem agua porque
+PT000015 banheiro qual cerveja genro arroz talvez pulmao dente como pais avo pai por sangue casa ola figado cozinha vinho quanto
+PT000016 mae frango esposa vinho cabelo dia estrela batata fruta terra tia pão sim coracao irma olho feijao agua leite sorvete
+PT000017 frango chao avo cozinha braco onde torta bom pais nariz mae janela boca cidade dia dedo pele sol suco teto
+PT000018 chao sim talvez genro tia desculpe sala nora nao boa torta esposa cabelo terra casa dente cidade vinho como pais
+PT000019 sim tarde unha nora bom estrela casa pe onde cabelo cozinha lingua queijo irmao carne filha rua dente porta osso
+PT000020 leite coracao jardim pulmao ola marido mundo neta doce sogra frango adeus sobrinho talvez noite bolo desculpe primo estrela perna
+PT000021 mae desculpe tio pão cabelo figado braco pulmao onde suco filho queijo pais esposa adeus doce amigo bolo bom fruta
+PT000022 genro marido quem sogro sala pais talvez cidade perna pele carne nariz ola unha quarto chao olho bolo tarde primo
+PT000023 peixe irmao favor amigo teto esposa batata sangue doce onde neta jardim braco parede estrela sogro feijao janela leite porque
+PT000024 favor suco casa osso nao sogra tia irmao cidade quarto cabeca desculpe filho sangue coracao garagem lingua mundo unha peixe
+PT000025 sorvete irmao nariz mundo banheiro parede coracao marido orelha boca quem avo jardim irma porta porque perna dedo desculpe agua
+PT000026 leite sala sogro filho favor cabelo tarde chao avo orelha cerveja pão dente qual sogra braco pais amigo bolo pe
+PT000027 avo favor braco arroz teto tio cafe desculpe sangue jardim janela coracao torta tia sol sala quando batata dedo pais
+PT000028 pele quando como onde sol bom peixe dente parede garagem mundo tarde quarto irma quanto qual noite braco boca nariz
+PT000029 sangue suco genro qual quanto queijo terra arroz sim pão braco neta rua feijao figado amigo teto unha primo cidade
+PT000030 perna sobrinho por pais estrela sala pão garagem noite nao sogro doce sogra dia bom como suco banheiro cabeca tio
+PT000031 dedo suco cafe pele coracao obrigado qual filha frango nao tarde marido cerveja garagem quem vinho boca peixe noite talvez
+PT000032 sogra tia frango obrigado filho estrela chao mae teto filha sogro rua figado vinho cabeca quanto pão amigo tarde unha
+PT000033 por cabelo terra janela carne pão bolo dente peixe genro perna casa quando pai queijo pulmao nora obrigado orelha sala
+PT000034 batata teto ola leite marido osso casa nora dente talvez irmao avo neta tarde quanto genro onde cozinha doce salada
+PT000035 nora noite quarto tarde banheiro janela agua sogra osso obrigado sol pele sobrinho fruta favor suco primo jardim chao avo
+PT000036 nao como adeus nariz favor genro qual dia dedo figado banheiro garagem pai tarde bolo irmao boca esposa neta mao
+PT000037 filho qual agua sogra dente vinho marido boca sorvete doce batata coracao dedo cozinha estrela amigo banheiro leite jardim cerveja
+PT000038 pe dente leite dia mao ola tia quarto neta cabelo carne mundo marido torta garagem noite osso quanto coracao sangue
+PT000039 primo tio salada braco quanto jardim vinho adeus coracao filho qual cozinha marido rua casa desculpe dente mundo boa neto
+PT000040 queijo banheiro estrela pele arroz torta sogro obrigado por rua boa neta suco dedo marido frango sorvete nao cafe orelha
+PT000041 cerveja adeus avo sogra irmao fruta bom feijao perna filho obrigado osso porque garagem coracao sangue bolo figado carne esposa
+PT000042 neta lua sogro qual tia boa sol bom boca pão nariz queijo cabelo sogra casa mundo frango chao dente dia
+PT000043 osso pe pai porta janela pão pulmao filho como mao rua doce olho carne irmao amigo suco perna sim lua
+PT000044 mao sogro avo porque amigo boca agua nariz filho dedo obrigado bolo dente pulmao torta janela pão doce quanto jardim
+PT000045 cabelo nora como terra arroz qual tarde desculpe jardim chao dedo primo nariz tia vinho avo cerveja frango dente amigo
+PT000046 vinho teto qual adeus mundo janela boa irmao suco leite sorvete lua ola tarde cerveja frango olho unha queijo batata
+PT000047 torta leite ola sogra figado quarto terra dedo agua dente jardim sol feijao suco filho irmao avo adeus onde boca
+PT000048 osso irma parede avo frango dedo perna arroz olho leite porta banheiro vinho sogra onde pais quanto estrela filho marido
+PT000049 agua suco pais sogro garagem pão ola vinho braco onde boa batata terra adeus pai unha janela olho favor irma
+PT000050 pão filha dedo pele por obrigado tio lua fruta casa mao mae talvez porta nao favor quarto cozinha genro osso
+SP000001 aire diez libro derecha verano quince tres nueve cobre mesa año leche siglo catorce izquierda sonido lila oro ocho junio febrero lago perro luna
+SP000002 diez catorce plata septiembre agua viernes rosa fuera jueves plomo verano seis largo azul centro corto blanco lunes setenta tres cafe uno abril gas
+SP000003 largo seis libro marzo este ocho pan cincuenta aire arbol rio ochenta septiembre centro oeste setenta año diciembre verano junio abajo cinco agosto fino
+SP000004 duro cafe lila sol carne frente perro bajo fino septiembre derecha noviembre cincuenta rojo fuera casa invierno sesenta corto veinte cuatro dentro tres doce
+SP000005 rojo gris abajo azul cinco silla diecisiete nube arbol voz enero cerca libro seis treinta flor quince octubre agosto norte sabado zinc aire lunes
+SP000006 sesenta martes domingo seis ocho perro arbol fuego dentro mayo gris ochenta lila rosa grito junio flor sonido diez carne tierra silla risa diecisiete
+SP000007 azul marzo corto febrero luz negro risa izquierda lunes junio sol fuera centro noviembre cerca blanco ancho septiembre tierra ochenta oeste cincuenta dieciocho otoño
+SP000008 azul voz grueso verano este eco aire marzo atras miercoles trece blanco cuarenta diciembre martes zinc bajo lago uno plata dos blando diecisiete izquierda
+SP000009 este sonido invierno hierro perro sol silla agua frente trece nube duro cuarenta sur noviembre seis nueve pan primavera lapiz tierra tres sabado domingo
+SP000010 cinco sesenta invierno cobre duro norte once abajo diez dos domingo voz sabado frente jueves blanco febrero silla aire sol cincuenta este luz treinta
+SP000011 marzo enero canto verde grito catorce cuatro junio leche grueso domingo bajo miercoles rosa año corto verano tierra este rio invierno agosto libro atras
+SP000012 nueve plata febrero domingo once tierra abril sonido enero oro nube miercoles mar gas voz uno siglo arbol risa fuego gris doce aire fino
+SP000013 rosa atras luna marzo perro seis diecisiete fuera agua viernes uno izquierda nube julio papel risa fuego sabado enero abajo largo domingo lila siglo
+SP000014 mar tres fino abajo setenta lila rosa agua casa centro sol fuera veinte oeste doce primavera hierro viernes mayo plata grito cuatro verano risa
+SP000015 pan zinc ocho grito quince rojo seis alto frente mayo trece cafe agua largo mesa veinte junio lago atras casa sesenta ancho risa lejos
+SP000016 verde blanco nueve plata oro otoño mesa cobre sesenta julio trece cincuenta bajo seis diez enero lejos quince tierra gato septiembre agosto lunes queso
+SP000017 cuatro setenta seis dentro casa siglo luz invierno corto viernes canto leche largo diciembre fino rio sonido otoño cuarenta rojo abajo rosa catorce oro
+SP000018 abril primavera viernes seis sonido ochenta lila cerca febrero casa queso lunes arriba blando gas carne canto lago gris otoño oro trece dentro octubre
+SP000019 mesa cuatro primavera risa quince dos negro grito catorce blando fino ochenta corto pan martes cerca eco oeste este año mar veinte sur nueve
+SP000020 zinc sonido norte otoño sol veinte mar miercoles hierro fuera arbol lunes siglo uno oro blanco lapiz carne grito largo nueve lila cuatro quince
+SP000021 grito pan fuego alto duro frente izquierda dentro sonido octubre luz diez ochenta sol siglo diciembre cincuenta once plomo domingo luna aire agosto cinco
+SP000022 enero frente setenta izquierda treinta cuatro agosto veinte uno año zinc mar nueve primavera atras flor cerca cuarenta lejos fuego ancho blando arriba once
+SP000023 cafe febrero doce sonido junio gas lejos arbol domingo plomo nueve luz septiembre corto voz dieciocho ocho fuego cuatro papel agosto julio quince catorce
+SP000024 quince siete derecha carne verde febrero mesa negro cobre enero flor gas grueso diez lejos aire ocho fuego treinta frente diciembre leche miercoles cincuenta
+SP000025 blanco nube siglo uno oro octubre leche dos fino tierra mar este arriba jueves lila atras agosto cuarenta enero alto cinco año lapiz seis
+SP000026 derecha rosa lunes frente aire blando duro agosto abril perro dentro marzo leche centro mar otoño largo enero catorce lejos ancho nueve fuego fino
+SP000027 ochenta fuera papel oro sonido martes abajo mesa cincuenta cafe blando queso cuarenta abril perro ocho bajo hierro dos silla lago otoño dentro invierno
+SP000028 lila luna aire arbol negro casa atras lejos dos sol grueso agua cinco seis lago oeste setenta plomo gato cafe ocho siete doce mayo
+SP000029 tierra eco martes blanco plomo primavera viernes este corto grueso veinte hierro siete queso aire gato sabado noviembre casa otoño largo dentro pan marzo
+SP000030 este ancho carne diciembre fuego tres diez perro invierno gato otoño septiembre rio alto gris sur silla dentro cincuenta eco marzo abril flor rojo
+SP000031 nueve norte mesa sesenta quince verde silla largo cuatro lapiz rojo arbol miercoles setenta hierro viernes cafe lejos dieciocho siete izquierda fuera otoño canto
+SP000032 tres silla treinta casa domingo enero jueves sesenta plata sol fuera canto seis queso leche viernes atras cincuenta carne mar hierro agosto verde libro
+SP000033 nube luz lapiz oro tierra primavera noviembre risa centro octubre jueves ocho ochenta rojo febrero cafe otoño domingo plomo eco silla setenta dentro aire
+SP000034 este papel bajo azul siete plata oeste atras lila rosa tierra gato duro junio gris viernes miercoles enero verde cobre mar risa mayo ancho
+SP000035 noviembre lejos fino diez risa cobre cafe arriba mayo siglo verde marzo grito sol casa derecha plata diecisiete siete alto azul ancho duro perro
+SP000036 siete oro abril este agua seis flor mayo bajo verde risa domingo marzo casa sesenta fino grito cafe fuego sabado cinco abajo sonido rosa
+SP000037 nueve junio noviembre gato tres fuego jueves leche ochenta gris año norte casa flor ocho enero azul risa abajo plomo siglo agua luz marzo
+SP000038 flor cerca treinta lapiz papel gas gris abajo dieciocho lila dentro corto blando cincuenta agua rojo largo aire enero blanco zinc azul primavera quince
+SP000039 trece risa papel quince grueso verano fuera canto tierra mayo siglo setenta centro norte sesenta aire miercoles luna cinco bajo rosa primavera verde largo
+SP000040 rosa septiembre rojo octubre tres mesa carne ancho frente queso domingo sur voz papel gas grueso sesenta lejos nube dieciocho corto blanco gato lila
+SP000041 ochenta junio arbol lapiz nueve grueso alto sesenta mesa primavera oeste fuego azul aire gris miercoles cobre cincuenta fino gato eco rosa febrero hierro
+SP000042 rojo febrero atras viernes trece carne seis tierra gris sur cuarenta canto noviembre sonido cinco junio domingo perro plata fuera siete ocho norte invierno
+SP000043 papel izquierda jueves ancho lago grito lunes atras arriba invierno uno doce mayo blanco dentro dos seis diez lapiz verano mesa cinco treinta febrero
+SP000044 junio marzo izquierda arbol abajo siglo centro lapiz febrero uno duro grito once otoño cincuenta frente largo aire luz casa seis sesenta trece quince
+SP000045 cuatro quince diez setenta oro libro blanco viernes lago nueve oeste este gris veinte bajo duro voz abajo rojo catorce frente leche julio plomo
+SP000046 rosa dos hierro rio invierno doce veinte martes jueves gris blanco agosto plata lejos corto mayo lunes luna este papel domingo sol cobre cafe
+SP000047 aire hierro rojo uno leche diecisiete setenta bajo lapiz duro sabado dos miercoles fuego canto julio catorce perro quince junio agua grueso siete fuera
+SP000048 mar cuatro treinta sabado queso luna sonido oro carne luz sol cuarenta duro noviembre derecha perro flor izquierda ancho lunes plomo atras alto año
+SP000049 corto duro cafe lapiz uno lila oeste año hierro lejos cobre eco silla grueso dos blando plomo sabado arriba abril bajo verano siete cuarenta
+SP000050 noviembre leche blanco verano trece martes azul nueve bajo voz plomo carne abril queso pan viernes cuarenta fuera blando ancho libro aire junio cincuenta

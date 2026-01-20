@@ -1,0 +1,4 @@
+SP123456 casa perro sol luna gato
+EN654321 apple house sun dog cat
+PT000001 casa cachorro sol lua gato
+DT111111 huis hond zon maan kat

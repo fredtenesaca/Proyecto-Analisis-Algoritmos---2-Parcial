@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bingo_P</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="logo-container">
+            <img src="/images/logo_bingo.png" alt="Logo Bingo">
+        </div>
+
+        <div class="menu-buttons" id="mainMenu">
+            <button class="menu-btn" onclick="showSection('cargar')">Cargar Cartones</button>
+            <button class="menu-btn" onclick="showSection('ver')">Ver Cartones</button>
+            <button class="menu-btn" onclick="showSection('iniciar')">Iniciar Partida</button>
+            <button class="menu-btn" onclick="showSection('ganadores')">Ver Ganadores</button>
+        </div>
+
+        <div class="content-section" id="cargar">
+            <div class="section-title">Cargar Cartones</div>
+
+            <div class="input-group">
+                <label>Cargar desde archivo .TXT</label>
+                <div class="file-input-wrapper">
+                    <input type="file" id="fileInput" accept=".txt" onchange="cargarArchivo(event)">
+                    <label for="fileInput" class="file-input-label">Seleccionar archivo</label>
+                </div>
+                <div id="fileName" style="margin-top: 10px; color: #666;"></div>
+            </div>
+
+            <div style="text-align: center; margin: 20px 0; color: #999; font-weight: bold;">- O -</div>
+
+            <div class="input-group">
+                <label>ID del Cartón (ej: SP000001)</label>
+                <input type="text" id="cartonId" placeholder="SP000001">
+            </div>
+
+            <div class="input-group">
+                <label>Palabras (separadas por espacios)</label>
+                <textarea id="cartonWords" placeholder="palabra1 palabra2 palabra3 ..."></textarea>
+            </div>
+
+            <button class="btn" onclick="agregarCarton()">Agregar Cartón</button>
+            <button class="btn back-btn" onclick="hideAllSections()">Volver</button>
+
+            <div id="cargarMessage"></div>
+        </div>
+
+        <div class="content-section" id="ver">
+            <div class="section-title">Cartones Cargados</div>
+            <div id="cartonList" class="carton-list"></div>
+            <button class="btn back-btn" onclick="hideAllSections()">Volver</button>
+            <button class="btn btn-secondary" onclick="limpiarCartones()">Limpiar Todo</button>
+        </div>
+
+        <div class="content-section" id="iniciar">
+            <div class="section-title" id="tituloJuego">Preparar Partida</div>
+
+            <div class="game-status" id="gameStatus">
+                <h4>Estado del Juego</h4>
+                <p>Presiona "Comenzar Juego" para iniciar</p>
+            </div>
+
+            <button class="btn" id="startGameBtn" onclick="comenzarJuego()">Comenzar Juego</button>
+
+            <div id="gameControls" style="display: none;">
+                <div class="bingo-machine"
+                    style="background: #282727; color: rgb(255, 194, 40); padding: 20px; border-radius: 10px; margin-bottom: 20px; text-align: center; border: 4px solid #555;">
+                    <h3 style="margin-bottom: 10px; color: #fff; font-size: 16px;">MÁQUINA DE PALABRAS</h3>
+
+                    <div id="palabraMostrada"
+                        style="font-size: 32px; font-weight: bold; letter-spacing: 2px; height: 40px; margin-bottom: 15px;">---</div>
+
+                    <button class="btn" style="background: #fff; color: #333; border: none;" onclick="sacarPalabraRandom()">Sacar palabra</button>
+                </div>
+                <div class="game-input" id="inputArea">
+                    <input type="text" id="palabraInput" placeholder="Ingresa la palabra extraída">
+                    <button class="btn" onclick="procesarPalabra()">Marcar</button>
+                </div>
+
+                <div id="continueArea" style="display: none; margin-bottom: 20px;">
+                    <button class="btn"
+                        style="background: #1f761f; width: 100%; color: white; border: 2px solid #006400;"
+                        onclick="finalizarRonda()">
+                        ¡Ronda terminada! Continuar a siguiente idioma ➡
+                    </button>
+                </div>
+
+                <button class="btn btn-secondary" onclick="finalizarRonda()">Finalizar Ronda (END)</button>
+                <button class="btn back-btn" onclick="detenerJuego()">Detener Juego (STOP)</button>
+            </div>
+
+            <div id="gameMessage"></div>
+        </div>
+
+        <div class="content-section" id="ganadores">
+            <div class="section-title">Ganadores</div>
+            <div id="ganadoresList"></div>
+            <button class="btn back-btn" onclick="hideAllSections()">Volver</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
